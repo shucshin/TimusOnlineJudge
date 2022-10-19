@@ -3,5 +3,6 @@ Repository to update my progress in the [Timus Online Judge Problem Set](https:/
 
 ## Problems Solved :: 3
 1. [Reverse Root](https://acm.timus.ru/problem.aspx?space=1&num=1001)
+1. [Stone Pile](https://acm.timus.ru/problem.aspx?space=1&num=1005)
 1. [Four Imps](https://acm.timus.ru/problem.aspx?space=1&num=1924) 
 1. [Centipede's Morning](https://acm.timus.ru/problem.aspx?space=1&num=1876)
