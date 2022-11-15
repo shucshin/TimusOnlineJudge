@@ -11,6 +11,7 @@ Repository to update my progress in the [Timus Online Judge Problem Set](https:/
 1. [Lost in Localization](https://acm.timus.ru/problem.aspx?space=1&num=1785)
 1. [Turn for MEGA](https://acm.timus.ru/problem.aspx?space=1&num=1787)
 1. [Ural Steaks](https://acm.timus.ru/problem.aspx?space=1&num=1820)
+1. [Isenbaev's Number](https://acm.timus.ru/problem.aspx?space=1&num=1837)
 1. [Centipede's Morning](https://acm.timus.ru/problem.aspx?space=1&num=1876)
 1. [Bicycle Codes](https://acm.timus.ru/problem.aspx?space=1&num=1877)
 1. [Four Imps](https://acm.timus.ru/problem.aspx?space=1&num=1924) 
