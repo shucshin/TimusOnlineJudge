@@ -1,7 +1,7 @@
 # Timus Online Judge
 Repository to update my progress in the [Timus Online Judge Problem Set](https://acm.timus.ru/problemset.aspx?space=1&page=all&skipac=False&sort=difficulty) for Competitive Programming
 
-## Problems Solved :: 16
+## Problems Solved :: 17
 1. [A+B Problem](https://acm.timus.ru/problem.aspx?space=1&num=1000)
 1. [Reverse Root](https://acm.timus.ru/problem.aspx?space=1&num=1001)
 1. [Stone Pile](https://acm.timus.ru/problem.aspx?space=1&num=1005)
@@ -19,3 +19,4 @@ Repository to update my progress in the [Timus Online Judge Problem Set](https:/
 1. [Mathematicians and Berries](https://acm.timus.ru/problem.aspx?space=1&num=2001)
 1. [About Grisha N](https://acm.timus.ru/problem.aspx?space=1&num=2012)
 1. [Simple Expression](https://acm.timus.ru/problem.aspx?space=1&num=2066)
+1. [Wedding Dinner](https://acm.timus.ru/problem.aspx?space=1&num=2100)
