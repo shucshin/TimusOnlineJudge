@@ -1,7 +1,7 @@
 # Timus Online Judge
 Repository to update my progress in the [Timus Online Judge Problem Set](https://acm.timus.ru/problemset.aspx?space=1&page=all&skipac=False&sort=difficulty) for Competitive Programming
 
-## Problems Solved :: 20
+## Problems Solved :: 21
 1. [Reverse Root](https://acm.timus.ru/problem.aspx?space=1&num=1001)
 1. [Eniya](https://acm.timus.ru/problem.aspx?space=1&num=1293)
 1. [A+B Problem](https://acm.timus.ru/problem.aspx?space=1&num=1000)
@@ -18,6 +18,7 @@ Repository to update my progress in the [Timus Online Judge Problem Set](https:/
 1. [Wedding Dinner](https://acm.timus.ru/problem.aspx?space=1&num=2100)
 1. [Psych Up's Eigenvalues](https://acm.timus.ru/problem.aspx?space=1&num=1880)
 1. [Chocolate 2](https://acm.timus.ru/problem.aspx?space=1&num=1639)
+1. [Titan Ruins: Hidden Entrance](https://acm.timus.ru/problem.aspx?space=1&num=1910)
 1. [Four Imps](https://acm.timus.ru/problem.aspx?space=1&num=1924) 
 1. [Centipede's Morning](https://acm.timus.ru/problem.aspx?space=1&num=1876)
 1. [Isenbaev's Number](https://acm.timus.ru/problem.aspx?space=1&num=1837)
