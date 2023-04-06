@@ -1,7 +1,7 @@
 # Timus Online Judge
 Repository to update my progress in the [Timus Online Judge Problem Set](https://acm.timus.ru/problemset.aspx?space=1&page=all&skipac=False&sort=difficulty) for Competitive Programming
 
-## Problems Solved :: 27
+## Problems Solved :: 28
 1. [Reverse Root](https://acm.timus.ru/problem.aspx?space=1&num=1001)
 1. [Eniya](https://acm.timus.ru/problem.aspx?space=1&num=1293)
 1. [A+B Problem](https://acm.timus.ru/problem.aspx?space=1&num=1000)
@@ -26,6 +26,7 @@ Repository to update my progress in the [Timus Online Judge Problem Set](https:/
 1. [Donald is a postman](https://acm.timus.ru/problem.aspx?space=1&num=2023)
 1. [Penguins](https://acm.timus.ru/problem.aspx?space=1&num=1585)
 1. [Hotel](https://acm.timus.ru/problem.aspx?space=1&num=1319)
+1. [SMS-spam](https://acm.timus.ru/problem.aspx?space=1&num=1567)
 1. [Centipede's Morning](https://acm.timus.ru/problem.aspx?space=1&num=1876)
 1. [Isenbaev's Number](https://acm.timus.ru/problem.aspx?space=1&num=1837)
 1. [Stone Pile](https://acm.timus.ru/problem.aspx?space=1&num=1005)
