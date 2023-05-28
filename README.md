@@ -1,7 +1,7 @@
 # Timus Online Judge
 Repository to update my progress in the [Timus Online Judge Problem Set](https://acm.timus.ru/problemset.aspx?space=1&page=all&skipac=False&sort=difficulty) for Competitive Programming
 
-## Problems Solved :: 43
+## Problems Solved :: 44
 1. [Reverse Root](https://acm.timus.ru/problem.aspx?space=1&num=1001)
 1. [Eniya](https://acm.timus.ru/problem.aspx?space=1&num=1293)
 1. [A+B Problem](https://acm.timus.ru/problem.aspx?space=1&num=1000)
@@ -44,4 +44,5 @@ Repository to update my progress in the [Timus Online Judge Problem Set](https:/
 1. [Bayan](https://acm.timus.ru/problem.aspx?space=1&num=1563)
 1. [A380](https://acm.timus.ru/problem.aspx?space=1&num=1893)
 1. [Isenbaev's Number](https://acm.timus.ru/problem.aspx?space=1&num=1837)
+1. [Penalty Time](https://acm.timus.ru/problem.aspx?space=1&num=1636)
 1. [Stone Pile](https://acm.timus.ru/problem.aspx?space=1&num=1005)
