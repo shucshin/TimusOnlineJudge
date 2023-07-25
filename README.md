@@ -1,7 +1,7 @@
 # Timus Online Judge
 Repository to update my progress in the [Timus Online Judge Problem Set](https://acm.timus.ru/problemset.aspx?space=1&page=all&skipac=False&sort=difficulty) for Competitive Programming
 
-## Problems Solved :: 44
+## Problems Solved :: 49
 1. [Reverse Root](https://acm.timus.ru/problem.aspx?space=1&num=1001)
 1. [Eniya](https://acm.timus.ru/problem.aspx?space=1&num=1293)
 1. [A+B Problem](https://acm.timus.ru/problem.aspx?space=1&num=1000)
@@ -37,12 +37,17 @@ Repository to update my progress in the [Timus Online Judge Problem Set](https:/
 1. [One Step from Happiness](https://acm.timus.ru/problem.aspx?space=1&num=1493)
 1. [Spammer](https://acm.timus.ru/problem.aspx?space=1&num=1496)
 1. [Divorce of the Seven Dwarfs](https://acm.timus.ru/problem.aspx?space=1&num=1243)
-1. [Farm](https://acm.timus.ru/problem.aspx?space=1&num=1349)
 1. [Hieroglyphs](https://acm.timus.ru/problem.aspx?space=1&num=1545)
+1. [Farm](https://acm.timus.ru/problem.aspx?space=1&num=1349)
+1. [Power](https://acm.timus.ru/problem.aspx?space=1&num=1110)
 1. [Centipede's Morning](https://acm.timus.ru/problem.aspx?space=1&num=1876)
 1. [History Exam](https://acm.timus.ru/problem.aspx?space=1&num=1196)
 1. [Bayan](https://acm.timus.ru/problem.aspx?space=1&num=1563)
 1. [A380](https://acm.timus.ru/problem.aspx?space=1&num=1893)
-1. [Isenbaev's Number](https://acm.timus.ru/problem.aspx?space=1&num=1837)
 1. [Penalty Time](https://acm.timus.ru/problem.aspx?space=1&num=1636)
+1. [Cipher Message](https://acm.timus.ru/problem.aspx?space=1&num=1654)
+1. [Isenbaev's Number](https://acm.timus.ru/problem.aspx?space=1&num=1837)
+1. [Sinus Dances](https://acm.timus.ru/problem.aspx?space=1&num=1149)
+1. [Long problem statement](https://acm.timus.ru/problem.aspx?space=1&num=1881)
+1. [Sandro's Book](https://acm.timus.ru/problem.aspx?space=1&num=1723)
 1. [Stone Pile](https://acm.timus.ru/problem.aspx?space=1&num=1005)
