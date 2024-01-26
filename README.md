@@ -50,6 +50,7 @@ Repository to update my progress in the [Timus Online Judge Problem Set](https:/
 1. [Sinus Dances](https://acm.timus.ru/problem.aspx?space=1&num=1149)
 1. [Long problem statement](https://acm.timus.ru/problem.aspx?space=1&num=1881)
 1. [Sandro's Book](https://acm.timus.ru/problem.aspx?space=1&num=1723)
+1. [Line Fighting](https://acm.timus.ru/problem.aspx?space=1&num=2025)
 1. [Stone Pile](https://acm.timus.ru/problem.aspx?space=1&num=1005)
 1. [Anansi's Cobweb](https://acm.timus.ru/problem.aspx?space=1&num=1671)
 1. [Distance in the Tree](https://acm.timus.ru/problem.aspx?space=1&num=1471)
