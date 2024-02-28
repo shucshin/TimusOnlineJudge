@@ -1,13 +1,4 @@
-//#include<bits/stdc++.h>
-#include <iostream>
-#include <iterator>
-#include <sstream>
-#include <string>
-#include <vector>
-#include <map>
-#include <queue>
-#include <algorithm>
-#include <utility>
+#include<bits/stdc++.h>
 using namespace std;
 #define pb(a) push_back(a)
 #define rep(i,a,b) for(int i = a; i < b; i++)
