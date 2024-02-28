@@ -2,7 +2,7 @@
 Repository to update my progress in the [Timus Online Judge Problem Set](https://acm.timus.ru/problemset.aspx?space=1&page=all&skipac=False&sort=difficulty) for Competitive Programming
 
 ## Problems Solved :: 55
-1. [Reverse Root](https://acm.timus.ru/problem.aspx?space=1&num=1001) [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/ReverseRoot.cpp)
+1. [Reverse Root](https://acm.timus.ru/problem.aspx?space=1&num=1001) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/ReverseRoot.cpp) ]
 1. [Eniya](https://acm.timus.ru/problem.aspx?space=1&num=1293)
 1. [A+B Problem](https://acm.timus.ru/problem.aspx?space=1&num=1000)
 1. [Two Gangsters](https://acm.timus.ru/problem.aspx?space=1&num=1409)
