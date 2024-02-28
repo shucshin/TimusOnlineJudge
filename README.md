@@ -1,7 +1,7 @@
 # Timus Online Judge
 Repository to update my progress in the [Timus Online Judge Problem Set](https://acm.timus.ru/problemset.aspx?space=1&page=all&skipac=False&sort=difficulty) for Competitive Programming
 
-## Problems Solved :: 55
+## Problems Solved :: 56
 1. [Reverse Root](https://acm.timus.ru/problem.aspx?space=1&num=1001) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/ReverseRoot.cpp) ]
 1. [Eniya](https://acm.timus.ru/problem.aspx?space=1&num=1293) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Eniya.cpp) ]
 1. [A+B Problem](https://acm.timus.ru/problem.aspx?space=1&num=1000) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/A%2BBproblem.cpp) ]
@@ -51,6 +51,7 @@ Repository to update my progress in the [Timus Online Judge Problem Set](https:/
 1. [Long problem statement](https://acm.timus.ru/problem.aspx?space=1&num=1881) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/LongProblemStatement.cpp) ]
 1. [Sandro's Book](https://acm.timus.ru/problem.aspx?space=1&num=1723) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/SandrosBook.cpp) ]
 1. [Line Fighting](https://acm.timus.ru/problem.aspx?space=1&num=2025) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/LineFighting.cpp) ]
+1. [Flat Spots](https://acm.timus.ru/problem.aspx?space=1&num=1617) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/FlatSpots.cpp) ]
 1. [Stone Pile](https://acm.timus.ru/problem.aspx?space=1&num=1005) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/StonePile.cpp) ]
 1. [Anansi's Cobweb](https://acm.timus.ru/problem.aspx?space=1&num=1671) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/AnansisCobweb.cpp) ]
 1. [Distance in the Tree](https://acm.timus.ru/problem.aspx?space=1&num=1471) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/DistanceTree.cpp) ]
