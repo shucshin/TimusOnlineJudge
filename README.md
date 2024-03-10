@@ -1,7 +1,7 @@
 # Timus Online Judge
 Repository to update my progress in the [Timus Online Judge Problem Set](https://acm.timus.ru/problemset.aspx?space=1&page=all&skipac=False&sort=difficulty) for Competitive Programming
 
-## Problems Solved :: 63
+## Problems Solved :: 65
 1. [Reverse Root](https://acm.timus.ru/problem.aspx?space=1&num=1001) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/ReverseRoot.cpp) ]
 1. [Eniya](https://acm.timus.ru/problem.aspx?space=1&num=1293) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Eniya.cpp) ]
 1. [A+B Problem](https://acm.timus.ru/problem.aspx?space=1&num=1000) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/A%2BBproblem.cpp) ]
@@ -59,6 +59,8 @@ Repository to update my progress in the [Timus Online Judge Problem Set](https:/
 1. [Plato](https://acm.timus.ru/problem.aspx?space=1&num=2111) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Plato.cpp) ]
 1. [Democracy in Danger](https://acm.timus.ru/problem.aspx?space=1&num=1025) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/DemocracyInDanger.cpp) ]
 1. [Factorials!!!](https://acm.timus.ru/problem.aspx?space=1&num=1083) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Factorials!!!.cpp) ]
+1. [Heating Main](https://acm.timus.ru/problem.aspx?space=1&num=1457) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/HeatingMain.cpp) ]
+1. [Test Task](https://acm.timus.ru/problem.aspx?space=1&num=2002) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/TestTask.cpp) ]
 1. [Stone Pile](https://acm.timus.ru/problem.aspx?space=1&num=1005) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/StonePile.cpp) ]
 1. [Anansi's Cobweb](https://acm.timus.ru/problem.aspx?space=1&num=1671) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/AnansisCobweb.cpp) ]
 1. [Distance in the Tree](https://acm.timus.ru/problem.aspx?space=1&num=1471) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/DistanceTree.cpp) ]
