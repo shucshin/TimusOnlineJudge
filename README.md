@@ -1,7 +1,7 @@
 # Timus Online Judge
 Repository to update my progress in the [Timus Online Judge Problem Set](https://acm.timus.ru/problemset.aspx?space=1&page=all&skipac=False&sort=difficulty) for Competitive Programming
 
-## Problems Solved :: 67
+## Problems Solved :: 72
 1. [Reverse Root](https://acm.timus.ru/problem.aspx?space=1&num=1001) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/ReverseRoot.cpp) ]
 1. [Eniya](https://acm.timus.ru/problem.aspx?space=1&num=1293) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Eniya.cpp) ]
 1. [A+B Problem](https://acm.timus.ru/problem.aspx?space=1&num=1000) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/A%2BBproblem.cpp) ]
@@ -63,6 +63,11 @@ Repository to update my progress in the [Timus Online Judge Problem Set](https:/
 1. [Test Task](https://acm.timus.ru/problem.aspx?space=1&num=2002) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/TestTask.cpp) ]
 1. [Metro](https://acm.timus.ru/problem.aspx?space=1&num=1119) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Metro.cpp) ]
 1. [Another Dress Rehearsal](https://acm.timus.ru/problem.aspx?space=1&num=2035) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/AnotherDressRehearsal.cpp) ]
+1. [Domino Dots](https://acm.timus.ru/problem.aspx?space=1&num=1502) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/DominoDots.cpp) ]
+1. [Two Teams](https://acm.timus.ru/problem.aspx?space=1&num=1106) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/TwoTeams.cpp) ]
+1. [Tears of Drowned](https://acm.timus.ru/problem.aspx?space=1&num=1935) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/TearsDrowned.cpp) ]
+1. [Copying](https://acm.timus.ru/problem.aspx?space=1&num=1131) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Copying.cpp) ]
+1. [City Blocks](https://acm.timus.ru/problem.aspx?space=1&num=1139) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/CityBlocks.cpp) ]
 1. [Stone Pile](https://acm.timus.ru/problem.aspx?space=1&num=1005) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/StonePile.cpp) ]
 1. [Anansi's Cobweb](https://acm.timus.ru/problem.aspx?space=1&num=1671) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/AnansisCobweb.cpp) ]
 1. [Distance in the Tree](https://acm.timus.ru/problem.aspx?space=1&num=1471) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/DistanceTree.cpp) ]
