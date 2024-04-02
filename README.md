@@ -69,6 +69,7 @@ Repository to update my progress in the [Timus Online Judge Problem Set](https:/
 1. [Copying](https://acm.timus.ru/problem.aspx?space=1&num=1131) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Copying.cpp) ]
 1. [City Blocks](https://acm.timus.ru/problem.aspx?space=1&num=1139) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/CityBlocks.cpp) ]
 1. [Stone Pile](https://acm.timus.ru/problem.aspx?space=1&num=1005) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/StonePile.cpp) ]
+1. [Maximum Sum](https://acm.timus.ru/problem.aspx?space=1&num=1146) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/MaximumSum.cpp) ]
 1. [Anansi's Cobweb](https://acm.timus.ru/problem.aspx?space=1&num=1671) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/AnansisCobweb.cpp) ]
 1. [Distance in the Tree](https://acm.timus.ru/problem.aspx?space=1&num=1471) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/DistanceTree.cpp) ]
 1. [Ivan's Car](https://acm.timus.ru/problem.aspx?space=1&num=1930) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/IvansCar.cpp) ]
