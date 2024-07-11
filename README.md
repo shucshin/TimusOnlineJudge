@@ -1,7 +1,7 @@
 # Timus Online Judge
 Repository to update my progress in the [Timus Online Judge Problem Set](https://acm.timus.ru/problemset.aspx?space=1&page=all&skipac=False&sort=difficulty) for Competitive Programming
 
-## Problems Solved :: 78
+## Problems Solved :: 80
 1. [Reverse Root](https://acm.timus.ru/problem.aspx?space=1&num=1001) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/ReverseRoot.cpp) ]
 1. [Eniya](https://acm.timus.ru/problem.aspx?space=1&num=1293) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Eniya.cpp) ]
 1. [A+B Problem](https://acm.timus.ru/problem.aspx?space=1&num=1000) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/A%2BBproblem.cpp) ]
@@ -75,6 +75,8 @@ Repository to update my progress in the [Timus Online Judge Problem Set](https:/
 1. [Hamming Code](https://acm.timus.ru/problem.aspx?space=1&num=1792) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/HammingCode.cpp) ]
 1. [Overturned Numbers](https://acm.timus.ru/problem.aspx?space=1&num=2031) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/OverturnedNumbers.cpp) ]
 1. [Handshakes](https://acm.timus.ru/problem.aspx?space=1&num=1194) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Handshakes.cpp) ]
+1. [Scientific Conference](https://acm.timus.ru/problem.aspx?space=1&num=1203) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/ScientificConference.cpp) ]
+1. [Palindrome](https://acm.timus.ru/problem.aspx?space=1&num=1297) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Palindrome.cpp) ]
 1. [Anansi's Cobweb](https://acm.timus.ru/problem.aspx?space=1&num=1671) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/AnansisCobweb.cpp) ]
 1. [Distance in the Tree](https://acm.timus.ru/problem.aspx?space=1&num=1471) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/DistanceTree.cpp) ]
 1. [Ivan's Car](https://acm.timus.ru/problem.aspx?space=1&num=1930) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/IvansCar.cpp) ]
