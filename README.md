@@ -1,7 +1,7 @@
 # Timus Online Judge
 Repository to update my progress in the [Timus Online Judge Problem Set](https://acm.timus.ru/problemset.aspx?space=1&page=all&skipac=False&sort=difficulty) for Competitive Programming
 
-## Problems Solved :: 80
+## Problems Solved :: 90
 1. [Reverse Root](https://acm.timus.ru/problem.aspx?space=1&num=1001) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/ReverseRoot.cpp) ]
 1. [Eniya](https://acm.timus.ru/problem.aspx?space=1&num=1293) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Eniya.cpp) ]
 1. [A+B Problem](https://acm.timus.ru/problem.aspx?space=1&num=1000) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/A%2BBproblem.cpp) ]
@@ -77,6 +77,16 @@ Repository to update my progress in the [Timus Online Judge Problem Set](https:/
 1. [Handshakes](https://acm.timus.ru/problem.aspx?space=1&num=1194) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Handshakes.cpp) ]
 1. [Scientific Conference](https://acm.timus.ru/problem.aspx?space=1&num=1203) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/ScientificConference.cpp) ]
 1. [Palindrome](https://acm.timus.ru/problem.aspx?space=1&num=1297) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Palindrome.cpp) ]
+1. [Cipher Grille](https://acm.timus.ru/problem.aspx?space=1&num=1712) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/CipherGrille.cpp) ]
+1. [Sum of Sequential Numbers](https://acm.timus.ru/problem.aspx?space=1&num=1120) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/SumSequentialNumbers.cpp) ]
+1. [Order](https://acm.timus.ru/problem.aspx?space=1&num=1510) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Order.cpp) ]
+1. [Stone Game](https://acm.timus.ru/problem.aspx?space=1&num=1180) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/StoneGame.py) ]
+1. [Taxi for Programmers](https://acm.timus.ru/problem.aspx?space=1&num=2005) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/TaxiProgrammers.cpp) ]
+1. [Magician](https://acm.timus.ru/problem.aspx?space=1&num=1370) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Magician.cpp) ]
+1. [Magnetic Storms](https://acm.timus.ru/problem.aspx?space=1&num=1126) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/MagneticStorms.cpp) ]
+1. [Stripies](https://acm.timus.ru/problem.aspx?space=1&num=1161) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Stripies.cpp) ]
+1. [Sorting Hat](https://acm.timus.ru/problem.aspx?space=1&num=1446) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/SortingHat.cpp) ]
+1. [AntiCAPS](https://acm.timus.ru/problem.aspx?space=1&num=1601) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/AntiCAPS.cpp) ]
 1. [Anansi's Cobweb](https://acm.timus.ru/problem.aspx?space=1&num=1671) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/AnansisCobweb.cpp) ]
 1. [Distance in the Tree](https://acm.timus.ru/problem.aspx?space=1&num=1471) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/DistanceTree.cpp) ]
 1. [Ivan's Car](https://acm.timus.ru/problem.aspx?space=1&num=1930) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/IvansCar.cpp) ]
