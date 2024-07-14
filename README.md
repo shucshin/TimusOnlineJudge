@@ -1,7 +1,7 @@
 # Timus Online Judge
 Repository to update my progress in the [Timus Online Judge Problem Set](https://acm.timus.ru/problemset.aspx?space=1&page=all&skipac=False&sort=difficulty) for Competitive Programming
 
-## Problems Solved :: 90
+## Problems Solved :: 100
 1. [Reverse Root](https://acm.timus.ru/problem.aspx?space=1&num=1001) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/ReverseRoot.cpp) ]
 1. [Eniya](https://acm.timus.ru/problem.aspx?space=1&num=1293) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Eniya.cpp) ]
 1. [A+B Problem](https://acm.timus.ru/problem.aspx?space=1&num=1000) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/A%2BBproblem.cpp) ]
@@ -21,8 +21,9 @@ Repository to update my progress in the [Timus Online Judge Problem Set](https:/
 1. [Titan Ruins: Hidden Entrance](https://acm.timus.ru/problem.aspx?space=1&num=1910) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/TitanRuinsHiddenEntrance.cpp) ]
 1. [1,10,100,1000...](https://acm.timus.ru/problem.aspx?space=1&num=1209) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/1101001000.cpp) ]
 1. [Some Words about Sport](https://acm.timus.ru/problem.aspx?space=1&num=1313) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/SomeWordsAboutSport.cpp) ]
-1. [Four Imps](https://acm.timus.ru/problem.aspx?space=1&num=1924) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/FourImps.cpp) ]
+1. [Flags](https://acm.timus.ru/problem.aspx?space=1&num=1225) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Flags.cpp) ]
 1. [Sum](https://acm.timus.ru/problem.aspx?space=1&num=1068) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Sum.cpp) ]
+1. [Four Imps](https://acm.timus.ru/problem.aspx?space=1&num=1924) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/FourImps.cpp) ]
 1. [Donald is a postman](https://acm.timus.ru/problem.aspx?space=1&num=2023) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/DonaldIsAPostman.cpp) ]
 1. [Penguins](https://acm.timus.ru/problem.aspx?space=1&num=1585) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Penguins.cpp) ]
 1. [Hotel](https://acm.timus.ru/problem.aspx?space=1&num=1319) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Hotel.cpp) ]
@@ -87,6 +88,15 @@ Repository to update my progress in the [Timus Online Judge Problem Set](https:/
 1. [Stripies](https://acm.timus.ru/problem.aspx?space=1&num=1161) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Stripies.cpp) ]
 1. [Sorting Hat](https://acm.timus.ru/problem.aspx?space=1&num=1446) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/SortingHat.cpp) ]
 1. [AntiCAPS](https://acm.timus.ru/problem.aspx?space=1&num=1601) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/AntiCAPS.cpp) ]
+1. [K-based Numbers](https://acm.timus.ru/problem.aspx?space=1&num=1009) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/KbasedNumbers.cpp) ]
+1. [Product of Digits](https://acm.timus.ru/problem.aspx?space=1&num=1014) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/ProductDigits.cpp) ]
+1. [Don't Ask Woman about Her Age](https://acm.timus.ru/problem.aspx?space=1&num=1104) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/DontAskWomanAboutHerAge.cpp) ]
+1. [Intervals](https://acm.timus.ru/problem.aspx?space=1&num=1330) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Intervals.cpp) ]
+1. [Monobilliards](https://acm.timus.ru/problem.aspx?space=1&num=1494) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Monobilliards.cpp) ]
+1. [1D Maze](https://acm.timus.ru/problem.aspx?space=1&num=1642) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/1DMaze.cpp) ]
+1. [Long Statement](https://acm.timus.ru/problem.aspx?space=1&num=2011) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/LongStatement.cpp) ]
+1. [A Whole Lot of Walnuts](https://acm.timus.ru/problem.aspx?space=1&num=1644) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/AWholeLotWalnuts.cpp) ]
+1. [Rope](https://acm.timus.ru/problem.aspx?space=1&num=1020) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/Rope.cpp) ]
 1. [Anansi's Cobweb](https://acm.timus.ru/problem.aspx?space=1&num=1671) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/AnansisCobweb.cpp) ]
 1. [Distance in the Tree](https://acm.timus.ru/problem.aspx?space=1&num=1471) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/DistanceTree.cpp) ]
 1. [Ivan's Car](https://acm.timus.ru/problem.aspx?space=1&num=1930) [ [Code](https://github.com/shucshin/TimusOnlineJudge/blob/main/IvansCar.cpp) ]
